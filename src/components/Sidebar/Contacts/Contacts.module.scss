@@ -6,7 +6,7 @@
 
   &__list {
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: row;
     flex-grow: 0;
     flex-shrink: 0;
     list-style: none;
@@ -15,7 +15,7 @@
     width: 140px;
 
     &-item {
-      padding: 0;
+      padding: 40;
       margin: 4px;
       display: flex;
       align-content: center;
