@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   title: 'Emily.Fail',
-  subtitle: 'Tech talk and Cat Chat',
+  subtitle: 'A blog about coding, cats, and business development',
   copyright: '© All rights reserved.',
   disqusShortname: 'EM',
   postsPerPage: 4,
@@ -19,9 +19,9 @@ module.exports = {
     },
   ],
   author: {
-    name: 'Emily Ramirez, Failure Specialist',
+    name: 'Emily Ramirez',
     photo: '/media/me.jpg', 
-    bio: 'Tech talk and cat chat',
+    bio: 'Join me on my coding journey!',
     contacts: {
       email: '#',
       twitter: '#',
